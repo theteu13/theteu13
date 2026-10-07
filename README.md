@@ -14,6 +14,7 @@ Me chamo **Matheus Mendes de Souza** e sou desenvolvedor focado em soluções Fu
 
 ### 📬 Conecte-se comigo:
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theteu83@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-de-souza)
 [![Lattes](https://img.shields.io/badge/Currículo_Lattes-003366?style=for-the-badge&logo=google-academic&logoColor=white)](https://www.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=D337AFE68E8B35570C6CC00D3E1843BC)
 
