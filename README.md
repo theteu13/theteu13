@@ -8,5 +8,5 @@ Me chamo Matheus Mendes de Souza e tenho uma familiaridade por desenvolvimento, 
   - **Desenvolvimento Front-end:** HTML, CSS, JavaScript, React
   - **Desenvolvimento Back-end:** Python, Node.js, C++
   - **Automação
-  - **AArquitetura de modelos embascados
+  - **AArquitetura de modelos embarcados
   - **Machine learning
